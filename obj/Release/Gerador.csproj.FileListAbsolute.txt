@@ -1,0 +1,8 @@
+C:\Users\flavio.andre\desenv\Desenv\Gerador\obj\Release\Gerador.csprojResolveAssemblyReference.cache
+C:\Users\flavio.andre\desenv\Desenv\Gerador\obj\Release\Gerador.frmLogin.resources
+C:\Users\flavio.andre\desenv\Desenv\Gerador\obj\Release\Gerador.frmMain.resources
+C:\Users\flavio.andre\desenv\Desenv\Gerador\obj\Release\Gerador.frmSelectionTables.resources
+C:\Users\flavio.andre\desenv\Desenv\Gerador\obj\Release\Gerador.frmTemplateFUC.resources
+C:\Users\flavio.andre\desenv\Desenv\Gerador\obj\Release\Gerador.Properties.Resources.resources
+C:\Users\flavio.andre\desenv\Desenv\Gerador\obj\Release\Gerador.csproj.GenerateResource.Cache
+C:\Users\flavio.andre\desenv\Desenv\Gerador\bin\Release\Gerador.exe.config
